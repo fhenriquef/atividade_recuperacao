@@ -1,7 +1,7 @@
 <ion-header>
   <ion-toolbar color="primary">
-    <ion-button slot="end" (click)="novoCliente()">Novo Produtos</ion-button>
-    <ion-title>Produtos</ion-title>
+    <ion-button slot="end" (click)="novoCliente()">Novo Gerente</ion-button>
+    <ion-title>Gerentes</ion-title>
   </ion-toolbar>
 </ion-header>
 
@@ -12,7 +12,7 @@
       <ion-item-option color="danger" (click)="remover(c.id)">Deletar</ion-item-option>
       <ion-item-option color="warning" (click)="atualizar(c)">Atualizar</ion-item-option>
     </ion-item-options>
-  <ion-item>{{c.codigo}}</ion-item>
+  <ion-item>{{c.nome}} - {{c.nome_gerente}}</ion-item>
 </ion-item-sliding>
 </ion-list>
 </ion-content>

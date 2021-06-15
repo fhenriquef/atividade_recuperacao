@@ -1,29 +1,15 @@
 {
   "pecas": [
     {
-      "codigo": "funcionou",
-      "descricao": "funcionou2",
-      "tipo": "funcionou3",
-      "preco": "funcionou4",
-      "quantidade": "funcionou5",
+      "email": "fhfhenrique12@gmail.com",
+      "senha": "1234567",
+      "nome_gerente": "Fábio",
+      "nome": "José",
+      "cnpj": "1010001000000186",
+      "telefone": "4666656",
+      "endereco": "rtgijpgjpergpor",
+      "localizacao": "thtrhrthrt",
       "id": 3
-    },
-    {
-      "codigo": "sdfdfvsdv",
-      "descricao": "rfgrgbdf",
-      "tipo": "bhdrhbdfb",
-      "preco": "rhbrdhbd",
-      "quantidade": "dfhbdrhbdfhb",
-      "id": 4
-    },
-    {
-      "codigo": "123456",
-      "descricao": "Fusível",
-      "tipo": "2",
-      "preco": "1.90",
-      "quantidade": "10",
-      "nome_gerente": "Center Norte",
-      "id": 5
     }
   ]
 }
